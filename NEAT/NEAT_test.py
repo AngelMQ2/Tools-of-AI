@@ -125,7 +125,7 @@ config = neat.config.Config(neat.DefaultGenome, neat.DefaultReproduction,
                             neat.DefaultSpeciesSet, neat.DefaultStagnation, file_path)
 
 # Load the checkpoint
-checkpoint_path = ".../model_xxx"  
+checkpoint_path = "./Models/model_name"  
 p = neat.Checkpointer.restore_checkpoint(checkpoint_path)
 population = p.population
 
