@@ -1,5 +1,5 @@
 # Tools-of-AI
-The idea behind this repository is to introduce some Artificial Intelligence approaches to non-expert users so can be applied to their own projects. It aims to showcase various AI approaches for environments with action-reward scenarios, providing both optimized implementations of modern tools and a custom version for more flexible modification and experimentation.
+This repository aims to introduce some Artificial Intelligence approaches to non-expert users so can be applied to their own projects. It aims to showcase various AI approaches for environments with action-reward scenarios, providing both optimized implementations of modern tools and a custom version for more flexible modification and experimentation.
 
 The implementations are related to the paper titled "Evolution vs. Learning: A Battle for Human-like Locomotion Control"  by Ángel Manuel Montejo Quesada, which aim a Human-like Locomotion Control for bipedal walking.
 ## Overview
