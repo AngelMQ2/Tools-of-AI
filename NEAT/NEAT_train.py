@@ -146,14 +146,14 @@ config = neat.config.Config(neat.DefaultGenome, neat.DefaultReproduction,
 
 
 # Configure save file path:
-model_path = "C:/Users/angel/OneDrive/Documentos/Projects_AI/ToolsAI/NEAT/Models/"
+model_path = "./Models/"
 current_time = datetime.now().strftime("%Y-%m-%d_%H-%M")
 model_name = "model_" + current_time+"_"
 model_name = os.path.join(model_path, model_name)
 
 
 
-log_path = "C:/Users/angel/OneDrive/Documentos/Projects_AI/ToolsAI/NEAT/LogFiles/"
+log_path = "./LogFiles/"
 log_name = current_time
 print(log_name)
 writer = SummaryWriter(log_dir=os.path.join(log_path, current_time))
