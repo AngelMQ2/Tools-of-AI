@@ -128,7 +128,7 @@ if __name__ == "__main__":
     action_size = test_env.action_space.shape[0]
 
     # Ruta al modelo guardado
-    model_path = "C:/Users/angel/OneDrive/Documentos/Projects_AI/ToolsAI/Custom A2C/Models/2024-05-22_15-40"  # Ruta a ajustar según sea necesario
+    model_path = "./Models/model_name"  # Ruta a ajustar según sea necesario
 
     # Carga el modelo
     actor_model = load_model(model_path)
