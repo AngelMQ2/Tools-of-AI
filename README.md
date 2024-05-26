@@ -38,5 +38,5 @@ Each folder contains its respective implementation. Users can explore the code, 
 
 ## Acknowledgements
 
-We would like to acknowledge the contributions of the open-source community and the authors of the algorithms implemented in this repository. Special thanks to the YouTube community for their educational content on Artificial Intelligence algorithms.
+We would like to acknowledge the contributions of the open-source community and the authors of the algorithms implemented in this repository. Special thanks to the YouTube community, devoted to teaching and disseminating high-level algorithms in Artificial Intelligence in an entertaining and accessible way for those who are curious about this knowledge. Sincerely, thank you.
 
